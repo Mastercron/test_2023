@@ -4,7 +4,7 @@ function elevar(num, exponent) {
    // Tu código:
    return Math.pow(num, exponent);
 }
-let base = 2;
+let base = 3;
 elevado = 3;
 
 let resultado = elevar(base, elevado);
