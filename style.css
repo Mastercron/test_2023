@@ -1,0 +1,23 @@
+/*CSS basic reset*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  display: block;
+  margin: 20px auto 10px;
+  padding: 25px 20px;
+  font-size: 1.4rem;
+  cursor: pointer;
+  border: none;
+  border-radius: 50%;
+  background-color: #3b5998;
+  color: white;
+}
+
+p {
+  font-size: 1.2rem;
+  text-align: center;
+}
